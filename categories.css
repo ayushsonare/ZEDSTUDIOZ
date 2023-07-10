@@ -1,6 +1,5 @@
-@media (max-width: 767px) {
-    .first__video{
-        width: 479px;
-    }
+
+.first__video{
+    width: 100%;
 }
 
